@@ -1,4 +1,13 @@
-Thetutlage-playground
+Youtube Elements Jquery Playlist Plugin
 =====================
 
-Thetutlage playground is an open source in browser code editor quite similar to js fiddle and js bin. It supports Html,Css,Javascript and other Js libraries with optional comments option.
+Youtube Elements is a jquery plugin to create fast and clean playlist from your youtube channel, you can change player skin and size by passing
+different paraments.
+
+##Setting Up Guide
+
+View an upto to date setup guide on http://www.thetutlage.com/2013/03/youtube-elements-jquery-playlist-plugin/
+
+##Demo
+
+http://www.thetutlage.com/demo/YoutubeApi
